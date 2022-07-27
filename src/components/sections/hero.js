@@ -64,17 +64,18 @@ const Hero = () => {
       Anderson Matheus <span className="emphasis">Lemke</span>.
     </h2>
   );
-  const subtitle = <h3 className="big-heading">I build things for the web.</h3>;
+  const subtitle = <h3 className="big-heading">Helping people to improve results</h3>;
   const minibio = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        I'm a software developer and analyst. I like to help people and companies to improve their
+        results. Working with software more than 6 years, I'm a defender and influencer of good
+        development practices, as well as their applicability in software projects. Currently,
+        working at{' '}
+        <a href="https://www.taller.net.br/" target="_blank" rel="noreferrer">
+          Taller
         </a>
-        .
+        , one of the most well-recognized Brazilian software development and consulting companies. .
       </p>
     </>
   );
