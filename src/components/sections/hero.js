@@ -58,10 +58,14 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
-  const four = (
+  const headerIntro = <h1>Hi, my name is</h1>;
+  const fullName = (
+    <h2 className="big-heading">
+      Anderson Matheus <span className="emphasis">Lemke</span>.
+    </h2>
+  );
+  const subtitle = <h3 className="big-heading">I build things for the web.</h3>;
+  const minibio = (
     <>
       <p>
         I’m a software engineer specializing in building (and occasionally designing) exceptional
@@ -74,7 +78,7 @@ const Hero = () => {
       </p>
     </>
   );
-  const five = (
+  const courseLink = (
     <a
       className="email-link"
       href="https://www.newline.co/courses/build-a-spotify-connected-app"
@@ -84,7 +88,7 @@ const Hero = () => {
     </a>
   );
 
-  const items = [one, two, three, four, five];
+  const items = [headerIntro, fullName, subtitle, minibio, courseLink];
 
   return (
     <StyledHeroSection>
