@@ -1,9 +1,8 @@
-import React, { useState, useEffect } from 'react';
+import { usePrefersReducedMotion } from '@hooks';
+import { loaderDelay, navDelay } from '@utils';
+import React, { useEffect, useState } from 'react';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
-import { navDelay, loaderDelay } from '@utils';
-import { usePrefersReducedMotion } from '@hooks';
-// import { email } from '@config';
 
 const StyledHeroSection = styled.section`
   ${({ theme }) => theme.mixins.flexCenter};
@@ -64,32 +63,21 @@ const Hero = () => {
       Anderson Matheus <span className="emphasis">Lemke</span>.
     </h2>
   );
-  const subtitle = <h3 className="big-heading">Helping people to improve results</h3>;
+  const subtitle = <h3 className="big-heading">I build software.</h3>;
   const minibio = (
     <>
       <p>
-        I'm a software developer and analyst. I like to help people and companies to improve their
-        results. Working with software more than 6 years, I'm a defender and influencer of good
-        development practices, as well as their applicability in software projects. Currently,
-        working at{' '}
+        I'm a software engineer and consultant. I like to help people and companies to improve their
+        results with digital transformation. Working with software for over 6 years, currently, at{' '}
         <a href="https://www.taller.net.br/" target="_blank" rel="noreferrer">
           Taller
         </a>
-        , one of the most well-recognized Brazilian software development and consulting companies. .
+        , one of the most well-recognized Brazilian software development and consulting companies.
       </p>
     </>
   );
-  const courseLink = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer">
-      Check out my course!
-    </a>
-  );
 
-  const items = [headerIntro, fullName, subtitle, minibio, courseLink];
+  const items = [headerIntro, fullName, subtitle, minibio];
 
   return (
     <StyledHeroSection>
