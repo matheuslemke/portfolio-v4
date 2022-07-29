@@ -2,12 +2,12 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Brittany Chiang',
+    title: 'Lemke',
     description:
-      'Brittany Chiang is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+      'Anderson Matheus Lemke is a software engineer who develop software and help people and companies to improve with digital transformation.',
+    siteUrl: 'https://lemke.com', // No trailing slash allowed!
+    image: '/og.png',
+    twitterUsername: '@matheus_lemke_',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'BrittanyChiang',
-        short_name: 'BrittanyChiang',
+        name: 'Lemke',
+        short_name: 'Lemke',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
