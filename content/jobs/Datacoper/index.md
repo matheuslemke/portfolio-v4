@@ -1,10 +1,10 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2016-08-15'
+title: 'Developer'
+company: 'Datacoper'
+location: 'Cascavel, PR, Brazil'
+range: 'August 2016 - February 2019'
+url: 'https://www.datacoper.com.br/'
 ---
 
 - Write modern, performant, maintainable code for a diverse array of client and internal projects
