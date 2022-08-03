@@ -7,6 +7,6 @@ range: 'April 2020 - July 2021'
 url: 'https://apipass.com.br/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Coordenated the development team for multiple iPaaS (integration Platform as a Service) projects
+- Worked in practice with Kanban and Lean Thinking, helping people to discover the best development process for each situation (agile in fact)
+- Developed and analysed iPaaS software, using techs as Angular, Javascript, Node and Java.

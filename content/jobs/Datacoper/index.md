@@ -7,6 +7,6 @@ range: 'August 2016 - February 2019'
 url: 'https://www.datacoper.com.br/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Engineered, maintained and leadered an accounting software for the main customers of the company
+- Helped in development of agribusiness ERP and its maintenance, using techs such as Java, Docker, Angular, Oracle and Postgres
+- Studied and proposed the implementation of NoSQL databases together with the relational approach

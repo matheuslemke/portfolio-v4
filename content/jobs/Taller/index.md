@@ -7,6 +7,6 @@ range: 'July 2021 - present'
 url: 'https://www.taller.net.br/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Develop and help at discovery phase of modern and high performance solutions for a diverse array of clients
+- Work with multiple techs, platforms, frameworks and languages such as JavaScript, TypeScript, Flutter, React, WordPress, Vercel, Heroku, Ruby on Rails, GCP, AWS services, Unity, Godot, etc
+- Participate and collaborate for [Unified Flow](https://blog.taller.net.br/category/fluxo-unificado/) process
