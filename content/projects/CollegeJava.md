@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-List of multiple college assigments made in Java.
+List of multiple graduation assigments made in Java.

@@ -145,7 +145,7 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Lemke and since I was a kid always liked technology. In 2013 I
-              started Computer Science college and after that got a job.
+              started Computer Science graduate course and after that got a job.
             </p>
             <p>
               Working actively in enterprise software development process, I've concluded{' '}

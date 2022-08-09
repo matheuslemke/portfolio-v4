@@ -11,4 +11,4 @@ company: ''
 showInProjects: true
 ---
 
-List of multiple college assigments made in C and C++ using Codeblocks. Some repos used in SBC programming marathon.
+List of multiple graduation assigments made in C and C++ using Codeblocks. Some repos used in SBC programming marathon.
