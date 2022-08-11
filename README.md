@@ -5,16 +5,12 @@
   lemke.dev.br
 </h1>
 <p align="center">
-  Portfolio <a href="https://lemke.dev.br" target="_blank">lemke.dev.br</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://vercel.com/" target="_blank">Vercel</a>
+  Portfolio <a href="https://lemke.dev.br" target="_blank">lemke.dev.br</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted in <a href="https://vercel.com/" target="_blank">Vercel</a>
 </p>
 
 ![Vercel](https://therealsujitk-vercel-badge.vercel.app/?app=portfolio-v4)
 
 ![demo](src/images/demo.png)
-
-## 🚨 Forking this repo (please read!)
-
-Yes, you can fork this repo. Please give proper brittanychiang credit by linking back to [brittanychiang.com](https://brittanychiang.com).
 
 ## 🛠 Installation & Set Up
 
