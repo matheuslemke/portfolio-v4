@@ -1,6 +1,6 @@
 ---
 date: '2016-08-15'
-title: 'Developer'
+title: 'Fullstack Developer'
 company: 'Datacoper'
 location: 'Cascavel, PR, Brazil'
 range: 'August 2016 - February 2019'

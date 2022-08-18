@@ -1,6 +1,6 @@
 ---
 date: '2019-02-15'
-title: 'Analyst'
+title: 'Fullstack Engineer'
 company: 'Supero'
 location: 'Blumenau, SC, Brazil'
 range: 'February 2019 - April 2020'

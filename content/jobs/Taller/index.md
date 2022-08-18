@@ -1,6 +1,6 @@
 ---
 date: '2021-07-19'
-title: 'Developer'
+title: 'Fullstack Engineer'
 company: 'Taller'
 location: 'Florianópolis, SC, Brazil'
 range: 'July 2021 - present'
