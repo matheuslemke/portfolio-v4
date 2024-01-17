@@ -68,7 +68,7 @@ const Hero = () => {
     <>
       <p>
         I'm a software engineer and consultant. I like to help people and companies to improve their
-        results with digital transformation. Working with software for over 6 years, currently, at{' '}
+        results with digital transformation. Working with software for over 8 years, currently, at{' '}
         <a href="https://www.taller.net.br/" target="_blank" rel="noreferrer">
           Taller
         </a>
