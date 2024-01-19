@@ -1,5 +1,6 @@
 import { usePrefersReducedMotion } from '@hooks';
 import { loaderDelay, navDelay } from '@utils';
+import { StaticImage } from 'gatsby-plugin-image';
 import React, { useEffect, useState } from 'react';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
@@ -76,8 +77,21 @@ const Hero = () => {
       </p>
     </>
   );
+  const badges = (
+    <div>
+      <div className="wrapper">
+        <StaticImage
+          className="img"
+          src="../../images/badges/ksd.png"
+          width={120}
+          formats={['AUTO']}
+          alt="KSD / KMP I"
+        />
+      </div>
+    </div>
+  );
 
-  const items = [headerIntro, fullName, subtitle, minibio];
+  const items = [headerIntro, fullName, subtitle, minibio, badges];
 
   return (
     <StyledHeroSection>
