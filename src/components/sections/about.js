@@ -149,11 +149,9 @@ const About = () => {
             </p>
             <p>
               Working actively in enterprise software development process, I've concluded{' '}
-              <a href="https://edu.kanban.university/users/anderson-matheus-lemke">
-                KMP I certification
-              </a>
-              . Believing in self-managed teams, one of my targets as a professional is to help
-              people to discover the processes that best fits on each business.
+              <a href="https://edu.kanban.university/users/lemke">KMP certification</a>. Believing
+              in self-managed teams, one of my targets as a professional is to help people to
+              discover the processes that best fits on each business.
             </p>
             <p>
               Developing software I could help many different companies, as one of the most{' '}
