@@ -61,7 +61,7 @@ const Hero = () => {
   const headerIntro = <h1>Hi, my name is</h1>;
   const fullName = (
     <h2 className="big-heading">
-      Anderson Matheus <span className="emphasis">Lemke</span>.
+      <span className="emphasis">Lemke</span>, Anderson Matheus.
     </h2>
   );
   const subtitle = <h3 className="big-heading">I build software.</h3>;
@@ -80,12 +80,13 @@ const Hero = () => {
   const badges = (
     <div>
       <div className="wrapper">
+        <p />
         <StaticImage
           className="img"
-          src="../../images/badges/ksd.png"
+          src="../../images/badges/kmp.png"
           width={120}
           formats={['AUTO']}
-          alt="KSD / KMP I"
+          alt="Kanban Management Professional - KMP"
         />
       </div>
     </div>
