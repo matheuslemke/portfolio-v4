@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'amatheuslemke@hotmail.com',
+  email: 'andersonmatheuslemke@gmail.com',
 
   socialMedia: [
     {
@@ -11,16 +11,8 @@ module.exports = {
       url: 'https://www.instagram.com/matheus_lemke',
     },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/matheus_lemke_',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/matheuslemke',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/matheuslemke',
     },
   ],
 
@@ -32,10 +24,6 @@ module.exports = {
     {
       name: 'Experience',
       url: '/#jobs',
-    },
-    {
-      name: 'Work',
-      url: '/#projects',
     },
     {
       name: 'Contact',
