@@ -4,7 +4,7 @@ title: 'Fullstack Developer'
 company: 'Datacoper'
 location: 'Cascavel, PR, Brazil'
 range: 'August 2016 - February 2019'
-url: 'https://www.datacoper.com.br/'
+url: 'https://novidades.aliare.co/datacoper'
 ---
 
 - Engineered, maintained and leadered an accounting software for the main customers of the company
