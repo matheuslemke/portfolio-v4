@@ -12,4 +12,5 @@ export { default as IconLoader } from './loader';
 export { default as IconLogo } from './logo';
 export { default as IconPlayStore } from './playstore';
 export { default as IconStar } from './star';
+export { default as IconSubstack } from './substack';
 export { default as IconTwitter } from './twitter';
