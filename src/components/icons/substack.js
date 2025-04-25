@@ -4,14 +4,17 @@ const IconSubstack = () => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     role="img"
+    viewBox="0 0 24 24"
     fill="none"
-    className="bi bi-substack"
     stroke="currentColor"
-    strokeWidth="2"
+    strokeWidth="1"
     strokeLinecap="round"
     strokeLinejoin="round"
-    viewBox="0 0 24 24">
-    <path d="M15 3.604H1v1.891h14v-1.89ZM1 7.208V16l7-3.926L15 16V7.208zM15 0H1v1.89h14z" />
+    className="feather feather-substack">
+    <title>Substack</title>
+    <path d="M4 5h16v2H4V5z" />
+    <path d="M4 9h16v2H4V9z" />
+    <path d="M4 13v8l8-4 8 4v-8H4z" />
   </svg>
 );
 
