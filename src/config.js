@@ -14,6 +14,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/matheuslemke',
     },
+    {
+      name: 'Substack',
+      url: 'https://matheuslemke.substack.com/',
+    },
   ],
 
   navLinks: [
